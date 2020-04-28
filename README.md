@@ -1,1 +1,1 @@
-# Wine32
+# Wine32 Horizon OS
